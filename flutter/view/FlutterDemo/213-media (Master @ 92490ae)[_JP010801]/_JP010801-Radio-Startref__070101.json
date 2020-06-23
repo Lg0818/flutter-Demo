@@ -1,0 +1,1809 @@
+{"header": {"version": "1.10","documentName": "213-media (Master @ 92490ae).sketch"},"layers": [
+
+{
+	"type": 0,
+	"id": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"parent": null,
+	"name": "_JP/01.08.01 - Radio - Start [ref:_JP/07.01.01]",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"backgroundColor": {
+		"r": 248,
+		"g": 248,
+		"b": 250,
+		"a": 255
+	}
+},
+{
+	"type": 0,
+	"id": "5F25B228-B511-46DC-9975-BF732C286560",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/System/Global Menu/5 items/default",
+	"frame": {
+		"x": -6,
+		"y": 0,
+		"width": 94,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": 0
+},
+{
+	"type": 0,
+	"id": "E51FC3D6-4BE2-4BE9-A685-86C4A83C5CFD",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "UI/System/Global Menu/5 items/Navi/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.0"
+},
+{
+	"type": 2,
+	"id": "A8984B8E-5745-42AE-9DC9-D538989D3B85",
+	"parent": "E51FC3D6-4BE2-4BE9-A685-86C4A83C5CFD",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.0.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_7_8_33_15"
+},
+{
+	"type": 2,
+	"id": "0A474FCF-7C64-419F-87BA-41F9B18D4778",
+	"parent": "E51FC3D6-4BE2-4BE9-A685-86C4A83C5CFD",
+	"name": "Icon/Navigation/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "0.0.1",
+	"imageRect": {
+		"x": 34,
+		"y": 42,
+		"width": 18,
+		"height": 24
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_7_8_33_15"
+},
+{
+	"type": 0,
+	"id": "45C64831-83CC-4548-B462-447558633B92",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "UI/System/Global Menu/5 items/Media/Inactive",
+	"frame": {
+		"x": 0,
+		"y": 108,
+		"width": 94,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.1"
+},
+{
+	"type": 2,
+	"id": "2C54AA32-CB19-4B85-9947-F46BE2F5BCB7",
+	"parent": "45C64831-83CC-4548-B462-447558633B92",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.0",
+	"imageRect": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_2_6_8_33_15"
+},
+{
+	"type": 0,
+	"id": "EB9D0DA0-19B2-44B6-8973-B7B000134B01",
+	"parent": "45C64831-83CC-4548-B462-447558633B92",
+	"name": "UI/System/Global Menu/5 items/_Active-State",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 94,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.1"
+},
+{
+	"type": 2,
+	"id": "568499E7-19C0-4662-ABC8-6FB146BF8C55",
+	"parent": "EB9D0DA0-19B2-44B6-8973-B7B000134B01",
+	"name": "Shapes/Pill/Filled",
+	"frame": {
+		"x": 0,
+		"y": 48,
+		"width": 12,
+		"height": 12
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.1.0",
+	"imageRect": {
+		"x": 6,
+		"y": 48,
+		"width": 6,
+		"height": 12
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_1_6_8_33_15"
+},
+{
+	"type": 2,
+	"id": "86E6492E-F668-4BAB-842E-61FB436358A3",
+	"parent": "EB9D0DA0-19B2-44B6-8973-B7B000134B01",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.1.1",
+	"imageRect": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_1_6_8_33_15"
+},
+{
+	"type": 0,
+	"id": "3B704F46-09D0-4FE0-88F3-4003392F516B",
+	"parent": "45C64831-83CC-4548-B462-447558633B92",
+	"name": "UI/System/Global Menu/5 items/Media/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.2"
+},
+{
+	"type": 2,
+	"id": "A8B84EEC-B929-4D5E-91ED-5FA4178F0437",
+	"parent": "3B704F46-09D0-4FE0-88F3-4003392F516B",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.2.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_0_6_8_33_15"
+},
+{
+	"type": 2,
+	"id": "C165E797-35F8-4F71-A65E-352898C16610",
+	"parent": "3B704F46-09D0-4FE0-88F3-4003392F516B",
+	"name": "Icon/Audio/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.2.1",
+	"imageRect": {
+		"x": 30,
+		"y": 39,
+		"width": 26,
+		"height": 29
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_0_6_8_33_15"
+},
+{
+	"type": 0,
+	"id": "518C2417-A584-4F1B-9836-B8C4578EFD94",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "UI/System/Global Menu/5 items/Phone/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 216,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.2"
+},
+{
+	"type": 2,
+	"id": "77A42740-DCAE-4FB9-9A04-573F3D7D4AB7",
+	"parent": "518C2417-A584-4F1B-9836-B8C4578EFD94",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.2.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_5_8_33_15"
+},
+{
+	"type": 2,
+	"id": "16C8BCCE-82DF-478F-A70D-4F78818D184D",
+	"parent": "518C2417-A584-4F1B-9836-B8C4578EFD94",
+	"name": "Icon/Phone/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "0.2.1",
+	"imageRect": {
+		"x": 32,
+		"y": 42,
+		"width": 26,
+		"height": 26
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_5_8_33_15"
+},
+{
+	"type": 0,
+	"id": "FC040866-AD99-4FAE-AC95-3E8BB16A0533",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "UI/System/Global Menu/5 items/Vehicle/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 324,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.3"
+},
+{
+	"type": 2,
+	"id": "52189F16-EE3F-4C1B-B655-AD97D8FF2B08",
+	"parent": "FC040866-AD99-4FAE-AC95-3E8BB16A0533",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.3.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_4_8_33_15"
+},
+{
+	"type": 2,
+	"id": "ED17DF17-F5EF-4A44-B0A1-5A776D902B26",
+	"parent": "FC040866-AD99-4FAE-AC95-3E8BB16A0533",
+	"name": "Icon/Car/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "0.3.1",
+	"imageRect": {
+		"x": 29,
+		"y": 40,
+		"width": 30,
+		"height": 28
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_4_8_33_15"
+},
+{
+	"type": 0,
+	"id": "C410C469-D6B5-4084-9AB7-07E037212727",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "UI/System/Global Menu/5 items/Settings/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 432,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.4"
+},
+{
+	"type": 2,
+	"id": "3EA8CB27-C87B-4810-8884-6CABA10C2D5A",
+	"parent": "C410C469-D6B5-4084-9AB7-07E037212727",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "0.4.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_3_8_33_15"
+},
+{
+	"type": 2,
+	"id": "35178D94-B99C-43B0-87E5-00AFA100CFBD",
+	"parent": "C410C469-D6B5-4084-9AB7-07E037212727",
+	"name": "Icon/System/Settings",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "0.4.1",
+	"imageRect": {
+		"x": 30,
+		"y": 40,
+		"width": 28,
+		"height": 28
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_3_8_33_15"
+},
+{
+	"type": 0,
+	"id": "5376C187-1D7F-4E26-8D29-ED53B1A32657",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "🎨/Fill/Gray 6",
+	"frame": {
+		"x": 93,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"opacity": 153,
+	"uniqueId": "0.5"
+},
+{
+	"type": 2,
+	"id": "CC573B21-965A-4629-A686-696230F0536D",
+	"parent": "5376C187-1D7F-4E26-8D29-ED53B1A32657",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "0.5.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_2_8_33_15"
+},
+{
+	"type": 0,
+	"id": "28DF8AC9-D44A-4A9E-9865-19ABB3CADCB8",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "Elevations/05/Right",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "0.6"
+},
+{
+	"type": 2,
+	"id": "F2F75EAB-F790-49B8-9D92-33B423591C9E",
+	"parent": "28DF8AC9-D44A-4A9E-9865-19ABB3CADCB8",
+	"name": "shape",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "0.6.t0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 136,
+		"height": 540
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_1_8_33_15"
+},
+{
+	"type": 0,
+	"id": "8641C213-D168-472F-96AF-8D598E43F6CA",
+	"parent": "5F25B228-B511-46DC-9975-BF732C286560",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "0.7"
+},
+{
+	"type": 2,
+	"id": "631764D6-5C9B-44C1-9085-5FD5659A8827",
+	"parent": "8641C213-D168-472F-96AF-8D598E43F6CA",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "0.7.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_0_8_33_15"
+},
+{
+	"type": 0,
+	"id": "78BDB307-1900-4D12-AD5B-4AE723330333",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/Button/Round/Large/Fill",
+	"frame": {
+		"x": 112,
+		"y": 440,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 83,
+	"uniqueId": "1"
+},
+{
+	"type": 2,
+	"id": "78BDB307-1900-4D12-AD5B-4AE723330333_img",
+	"parent": "78BDB307-1900-4D12-AD5B-4AE723330333",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 83,
+	"uniqueId": "1",
+	"imageRect": {
+		"x": -31,
+		"y": -7,
+		"width": 136,
+		"height": 107
+	},
+	"src": "_JP010801-Radio-Startref__070101_7_33_15"
+},
+{
+	"type": 0,
+	"id": "43226079-1156-4C71-956B-2A2B3665C88E",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/System/Status Bar",
+	"frame": {
+		"x": 725,
+		"y": 0,
+		"width": 235,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2"
+},
+{
+	"type": 2,
+	"id": "B3AFD352-B3A9-4282-B772-10764DAE475B",
+	"parent": "43226079-1156-4C71-956B-2A2B3665C88E",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 56,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 56,
+		"height": 74
+	},
+	"src": "_JP010801-Radio-Startref__070101_4_6_33_15"
+},
+{
+	"type": 2,
+	"id": "6491FFB6-58B8-4605-98E2-ECF063B26864",
+	"parent": "43226079-1156-4C71-956B-2A2B3665C88E",
+	"name": "Icon/Bluetooth/Default",
+	"frame": {
+		"x": 24,
+		"y": 26,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "2.1",
+	"imageRect": {
+		"x": 30,
+		"y": 28,
+		"width": 13,
+		"height": 20
+	},
+	"src": "_JP010801-Radio-Startref__070101_3_6_33_15"
+},
+{
+	"type": 2,
+	"id": "D0B04471-F2D7-431E-8A35-A6FB02050758",
+	"parent": "43226079-1156-4C71-956B-2A2B3665C88E",
+	"name": "Icon/Phone/Battery",
+	"frame": {
+		"x": 64,
+		"y": 26,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "2.2",
+	"imageRect": {
+		"x": 71,
+		"y": 29,
+		"width": 10,
+		"height": 18
+	},
+	"src": "_JP010801-Radio-Startref__070101_2_6_33_15"
+},
+{
+	"type": 2,
+	"id": "2B927D34-05BA-4C44-8ABA-8C9A30CD36F2",
+	"parent": "43226079-1156-4C71-956B-2A2B3665C88E",
+	"name": "Icon/Phone/LTE",
+	"frame": {
+		"x": 104,
+		"y": 26,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "2.3",
+	"imageRect": {
+		"x": 108,
+		"y": 30,
+		"width": 16,
+		"height": 17
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_6_33_15"
+},
+{
+	"type": 0,
+	"id": "DC416FD2-FE38-456F-814D-154A2706BD81",
+	"parent": "43226079-1156-4C71-956B-2A2B3665C88E",
+	"name": "text/32/Right/Regular/Gray 4",
+	"frame": {
+		"x": 149,
+		"y": 12,
+		"width": 62,
+		"height": 50
+	},
+	"opacity": 255,
+	"uniqueId": "2.4"
+},
+{
+	"type": 3,
+	"id": "ACEE94DF-539A-477B-AB8B-46BCDA7E7021",
+	"parent": "DC416FD2-FE38-456F-814D-154A2706BD81",
+	"name": "32/Right/Regular/White",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 62,
+		"height": 45
+	},
+	"opacity": 255,
+	"uniqueId": "2.4.0",
+	"imageRect": {
+		"x": 3,
+		"y": 13,
+		"width": 58,
+		"height": 25
+	},
+	"alignment": 2,
+	"verticalAlignment": 0,
+	"text": "4:12",
+	"fragments": [
+		{
+			"rect": {
+				"x": 2.6880000000000024,
+				"y": 0,
+				"width": 59.312,
+				"height": 45
+			},
+			"range": {
+				"location": 0,
+				"length": 4
+			},
+			"baselineOffset": 8
+		}
+	],
+	"color": {
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 37.34407567977905,
+	"descender": -8.28801679611206,
+	"capHeight": 22.72,
+	"xHeight": 16.128,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.912,
+	"underlineThickness": 2.496,
+	"fontSize": 32,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "7F78C155-ACD9-4D6B-8881-CC51D3EAF556",
+	"parent": "DC416FD2-FE38-456F-814D-154A2706BD81",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 62,
+		"height": 50
+	},
+	"opacity": 255,
+	"uniqueId": "2.4.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 62,
+		"height": 50
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_0_6_33_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/Source Menu/List Item/Single Line",
+	"frame": {
+		"x": 240,
+		"y": 52,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "3"
+},
+{
+	"type": 2,
+	"id": "9425D7BE-9602-4916-9E7A-5AB24AEAFCDF",
+	"parent": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"opacity": 255,
+	"uniqueId": "3.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"src": "_JP010801-Radio-Startref__070101_5_5_33_15"
+},
+{
+	"type": 0,
+	"id": "2F0E3044-BD27-4625-840D-DE9793125000",
+	"parent": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"name": "Icon/System/Blank",
+	"frame": {
+		"x": 35,
+		"y": 62,
+		"width": 19,
+		"height": 19
+	},
+	"opacity": 255,
+	"uniqueId": "3.1"
+},
+{
+	"type": 0,
+	"id": "E8B99C62-54D5-4FE3-8888-FB1DEAB5C34B",
+	"parent": "2F0E3044-BD27-4625-840D-DE9793125000",
+	"name": "🎨/Fill/Gray 4",
+	"frame": {
+		"x": -3,
+		"y": -3,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "3.1.0"
+},
+{
+	"type": 2,
+	"id": "6F83B342-B744-4AD6-8507-CE6B91FBE351",
+	"parent": "E8B99C62-54D5-4FE3-8888-FB1DEAB5C34B",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "3.1.0.0",
+	"imageRect": {
+		"x": 3,
+		"y": 3,
+		"width": 19,
+		"height": 19
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_1_4_5_33_15"
+},
+{
+	"type": 2,
+	"id": "06ADA6FC-087F-466C-BC6E-192406C2F743",
+	"parent": "2F0E3044-BD27-4625-840D-DE9793125000",
+	"name": "Shape",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 18.09523809523809,
+		"height": 19
+	},
+	"opacity": 255,
+	"uniqueId": "3.1.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 19,
+		"height": 19
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_4_5_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "160061C9-F08F-4719-8A21-9FE20A910F5B",
+	"parent": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"name": "Icon/System/Primary",
+	"frame": {
+		"x": 32,
+		"y": 47,
+		"width": 24,
+		"height": 24
+	},
+	"hidden": true,
+	"opacity": 178,
+	"uniqueId": "3.2",
+	"imageRect": {
+		"x": -238,
+		"y": -14547,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_3_5_33_15"
+},
+{
+	"type": 0,
+	"id": "E568CB33-9DDB-42E9-BE54-1585568DFA11",
+	"parent": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"name": "text/48/Left/Semibold/White",
+	"frame": {
+		"x": 96,
+		"y": 18,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "3.3"
+},
+{
+	"type": 3,
+	"id": "EEB247F0-4787-464D-88A5-771EB2875E8B",
+	"parent": "E568CB33-9DDB-42E9-BE54-1585568DFA11",
+	"name": "48/Left/Semibold/White",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "3.3.0",
+	"imageRect": {
+		"x": 0,
+		"y": 21,
+		"width": 73,
+		"height": 35
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "AM",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 75.99199999999999,
+				"height": 68
+			},
+			"range": {
+				"location": 0,
+				"length": 2
+			},
+			"baselineOffset": 12
+		}
+	],
+	"color": {
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 56.016357421875,
+	"descender": -12.43212890625,
+	"capHeight": 34.08,
+	"xHeight": 24.288,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -4.368,
+	"underlineThickness": 3.744,
+	"fontSize": 48,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "254C96A2-E19B-463E-855C-58EBA3940093",
+	"parent": "E568CB33-9DDB-42E9-BE54-1585568DFA11",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "3.3.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_2_5_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "A014EA64-69F4-408C-8686-C96286D7AB30",
+	"parent": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"name": "Shapes/Rounded Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 56,
+		"width": 720,
+		"height": 32
+	},
+	"opacity": 50,
+	"uniqueId": "3.4",
+	"imageRect": {
+		"x": 0,
+		"y": 56,
+		"width": 720,
+		"height": 32
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_5_33_15"
+},
+{
+	"type": 2,
+	"id": "C8CE4027-87E5-4BF1-B2E7-9293285A6C35",
+	"parent": "4C3686F3-610F-4D0E-91E4-D01CA72AB781",
+	"name": "bg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "3.5",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_5_33_15"
+},
+{
+	"type": 0,
+	"id": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/Source Menu/List Item/Single Line",
+	"frame": {
+		"x": 240,
+		"y": 174,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "4"
+},
+{
+	"type": 2,
+	"id": "FA35A390-4DE7-4DB7-84BE-8C63FFD63AB7",
+	"parent": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"opacity": 255,
+	"uniqueId": "4.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"src": "_JP010801-Radio-Startref__070101_5_4_33_15"
+},
+{
+	"type": 0,
+	"id": "CC8B8C54-4480-4266-87D8-9475CC3FD766",
+	"parent": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"name": "Icon/System/Blank",
+	"frame": {
+		"x": 35,
+		"y": 62,
+		"width": 19,
+		"height": 19
+	},
+	"opacity": 255,
+	"uniqueId": "4.1"
+},
+{
+	"type": 0,
+	"id": "E2EB7341-D6E2-4299-B0D9-F09B806E64DF",
+	"parent": "CC8B8C54-4480-4266-87D8-9475CC3FD766",
+	"name": "🎨/Fill/Gray 4",
+	"frame": {
+		"x": -3,
+		"y": -3,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.0"
+},
+{
+	"type": 2,
+	"id": "274C5649-11CA-42C6-8294-DB6EEA3A4235",
+	"parent": "E2EB7341-D6E2-4299-B0D9-F09B806E64DF",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.0.0",
+	"imageRect": {
+		"x": 3,
+		"y": 3,
+		"width": 19,
+		"height": 19
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_1_4_4_33_15"
+},
+{
+	"type": 2,
+	"id": "67195169-A662-4F4B-96DC-026FE94F0FC2",
+	"parent": "CC8B8C54-4480-4266-87D8-9475CC3FD766",
+	"name": "Shape",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 18.09523809523809,
+		"height": 19
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 19,
+		"height": 19
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_4_4_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "DD666986-A64F-4FF0-9557-74E12B649ECD",
+	"parent": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"name": "Icon/System/Primary",
+	"frame": {
+		"x": 32,
+		"y": 47,
+		"width": 24,
+		"height": 24
+	},
+	"hidden": true,
+	"opacity": 178,
+	"uniqueId": "4.2",
+	"imageRect": {
+		"x": -238,
+		"y": -14669,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_3_4_33_15"
+},
+{
+	"type": 0,
+	"id": "DCA1920B-0831-47A5-AE80-5F2F5B5911CA",
+	"parent": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"name": "text/48/Left/Semibold/White",
+	"frame": {
+		"x": 96,
+		"y": 18,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "4.3"
+},
+{
+	"type": 3,
+	"id": "57F51F7A-BB32-4464-8642-89463D5DB01C",
+	"parent": "DCA1920B-0831-47A5-AE80-5F2F5B5911CA",
+	"name": "48/Left/Semibold/White",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "4.3.0",
+	"imageRect": {
+		"x": 4,
+		"y": 21,
+		"width": 61,
+		"height": 35
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "FM",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 68.408,
+				"height": 68
+			},
+			"range": {
+				"location": 0,
+				"length": 2
+			},
+			"baselineOffset": 12
+		}
+	],
+	"color": {
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 56.016357421875,
+	"descender": -12.43212890625,
+	"capHeight": 34.08,
+	"xHeight": 24.288,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -4.368,
+	"underlineThickness": 3.744,
+	"fontSize": 48,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "DB4E2E38-3A35-4725-BB41-1A315555099A",
+	"parent": "DCA1920B-0831-47A5-AE80-5F2F5B5911CA",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "4.3.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_2_4_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "E9442515-9F69-4C04-B6B4-34C1F2F325EC",
+	"parent": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"name": "Shapes/Rounded Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 56,
+		"width": 720,
+		"height": 32
+	},
+	"hidden": true,
+	"opacity": 50,
+	"uniqueId": "4.4",
+	"imageRect": {
+		"x": -238,
+		"y": -14669,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_4_33_15"
+},
+{
+	"type": 2,
+	"id": "D8CC8CE1-0431-4583-9AE0-4B22A5C59C40",
+	"parent": "D336E5B7-B1BD-429F-9D94-695EA14AAF1E",
+	"name": "bg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "4.5",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_4_33_15"
+},
+{
+	"type": 0,
+	"id": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/Source Menu/List Item/Single Line",
+	"frame": {
+		"x": 240,
+		"y": 296,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "5"
+},
+{
+	"type": 2,
+	"id": "E0BC54F0-4A67-42E3-9385-4C72F374495A",
+	"parent": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"opacity": 255,
+	"uniqueId": "5.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"src": "_JP010801-Radio-Startref__070101_5_3_33_15"
+},
+{
+	"type": 2,
+	"id": "B8F5613D-D1E3-4A55-8700-117F10C11B71",
+	"parent": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"name": "Icon/System/Blank",
+	"frame": {
+		"x": 32,
+		"y": 59,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "5.1",
+	"imageRect": {
+		"x": 37,
+		"y": 62,
+		"width": 15,
+		"height": 18
+	},
+	"src": "_JP010801-Radio-Startref__070101_4_3_33_15"
+},
+{
+	"type": 2,
+	"id": "20F36E81-DDCF-47D6-A3E7-190D44E4C175",
+	"parent": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"name": "Icon/System/Primary",
+	"frame": {
+		"x": 32,
+		"y": 47,
+		"width": 24,
+		"height": 24
+	},
+	"hidden": true,
+	"opacity": 178,
+	"uniqueId": "5.2",
+	"imageRect": {
+		"x": -238,
+		"y": -14791,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_3_3_33_15"
+},
+{
+	"type": 0,
+	"id": "DD14F66B-7CE0-46D1-931B-492954E406E5",
+	"parent": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"name": "text/48/Left/Semibold/White",
+	"frame": {
+		"x": 96,
+		"y": 18,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "5.3"
+},
+{
+	"type": 3,
+	"id": "900F0F72-D99F-438D-AB2D-F1827D93FC85",
+	"parent": "DD14F66B-7CE0-46D1-931B-492954E406E5",
+	"name": "48/Left/Semibold/White",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 48
+	},
+	"opacity": 255,
+	"uniqueId": "5.3.0",
+	"imageRect": {
+		"x": 2,
+		"y": 1,
+		"width": 187,
+		"height": 45
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "交通情報",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 190,
+				"height": 48
+			},
+			"range": {
+				"location": 0,
+				"length": 4
+			},
+			"baselineOffset": 6
+		}
+	],
+	"color": {
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "ヒラギノ角ゴシック W5",
+	"ascender": 42.24008560180664,
+	"descender": -5.760011672973633,
+	"capHeight": 37.296,
+	"xHeight": 26.64,
+	"italicAngle": 0,
+	"leading": 24.000048637390137,
+	"underlinePosition": -3.6,
+	"underlineThickness": 2.4,
+	"fontSize": 48,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "3D1BA7D0-9EE4-42C5-8E4B-D461BE351286",
+	"parent": "DD14F66B-7CE0-46D1-931B-492954E406E5",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "5.3.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_2_3_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "6A0FDAB7-CE7C-4F01-B553-CCC891470CA3",
+	"parent": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"name": "Shapes/Rounded Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 56,
+		"width": 720,
+		"height": 32
+	},
+	"hidden": true,
+	"opacity": 50,
+	"uniqueId": "5.4",
+	"imageRect": {
+		"x": -238,
+		"y": -14791,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_3_33_15"
+},
+{
+	"type": 2,
+	"id": "6DD30636-D56E-4CA7-A4A9-E59C3CC0A576",
+	"parent": "5EFB71C6-E187-4E3E-9CBE-E9634CD93754",
+	"name": "bg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "5.5",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_3_33_15"
+},
+{
+	"type": 0,
+	"id": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "UI/Source Menu/List Item/Single Line",
+	"frame": {
+		"x": 240,
+		"y": 418,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "6"
+},
+{
+	"type": 2,
+	"id": "BAE2E5FC-3DE9-4574-AEF0-DA4310B5FBC9",
+	"parent": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"opacity": 255,
+	"uniqueId": "6.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 122
+	},
+	"src": "_JP010801-Radio-Startref__070101_5_2_33_15"
+},
+{
+	"type": 0,
+	"id": "763587E5-6CFE-4326-8C2D-0B0948F78EA1",
+	"parent": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"name": "Icon/System/Blank",
+	"frame": {
+		"x": 33,
+		"y": 62,
+		"width": 22,
+		"height": 18
+	},
+	"opacity": 255,
+	"uniqueId": "6.1"
+},
+{
+	"type": 0,
+	"id": "28038C1C-FB5B-4263-84F7-EF59F6480137",
+	"parent": "763587E5-6CFE-4326-8C2D-0B0948F78EA1",
+	"name": "🎨/Fill/Gray 4",
+	"frame": {
+		"x": -1,
+		"y": -3,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "6.1.0"
+},
+{
+	"type": 2,
+	"id": "775F0AFE-5EC7-424E-87C6-19910B64A037",
+	"parent": "28038C1C-FB5B-4263-84F7-EF59F6480137",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "6.1.0.0",
+	"imageRect": {
+		"x": 1,
+		"y": 3,
+		"width": 22,
+		"height": 18
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_1_4_2_33_15"
+},
+{
+	"type": 2,
+	"id": "95ED2BEB-E3BF-40BD-B488-91B3DBB78772",
+	"parent": "763587E5-6CFE-4326-8C2D-0B0948F78EA1",
+	"name": "Shape",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 22,
+		"height": 18
+	},
+	"opacity": 255,
+	"uniqueId": "6.1.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 22,
+		"height": 18
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_4_2_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "59EC5556-7B68-482F-A07C-347CB5539C84",
+	"parent": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"name": "Icon/System/Primary",
+	"frame": {
+		"x": 32,
+		"y": 47,
+		"width": 24,
+		"height": 24
+	},
+	"hidden": true,
+	"opacity": 178,
+	"uniqueId": "6.2",
+	"imageRect": {
+		"x": -238,
+		"y": -14913,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_3_2_33_15"
+},
+{
+	"type": 0,
+	"id": "5626E4BD-59D1-42CA-ADB9-C1F39AE5B931",
+	"parent": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"name": "text/48/Left/Semibold/White",
+	"frame": {
+		"x": 96,
+		"y": 18,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "6.3"
+},
+{
+	"type": 3,
+	"id": "E65E0A40-424A-4098-BD4A-5B223E03905E",
+	"parent": "5626E4BD-59D1-42CA-ADB9-C1F39AE5B931",
+	"name": "48/Left/Semibold/White",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "6.3.0",
+	"imageRect": {
+		"x": 0,
+		"y": 21,
+		"width": 58,
+		"height": 35
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "TV",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 57.080000000000005,
+				"height": 68
+			},
+			"range": {
+				"location": 0,
+				"length": 2
+			},
+			"baselineOffset": 12
+		}
+	],
+	"color": {
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 56.016357421875,
+	"descender": -12.43212890625,
+	"capHeight": 34.08,
+	"xHeight": 24.288,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -4.368,
+	"underlineThickness": 3.744,
+	"fontSize": 48,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "3BA758F9-7AB3-4954-ACCC-350FDCCABEEC",
+	"parent": "5626E4BD-59D1-42CA-ADB9-C1F39AE5B931",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"opacity": 255,
+	"uniqueId": "6.3.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 576,
+		"height": 68
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_2_2_33_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "E0245871-2ED4-4660-AA78-8E8FF4B3D6A6",
+	"parent": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"name": "Shapes/Rounded Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 56,
+		"width": 720,
+		"height": 32
+	},
+	"hidden": true,
+	"opacity": 50,
+	"uniqueId": "6.4",
+	"imageRect": {
+		"x": -238,
+		"y": -14913,
+		"width": 1,
+		"height": 1
+	},
+	"src": "_JP010801-Radio-Startref__070101_1_2_33_15"
+},
+{
+	"type": 2,
+	"id": "18770232-1577-47D0-B4EA-D1987479E175",
+	"parent": "752BDF25-F686-4852-A52F-AABA9C178FAE",
+	"name": "bg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"opacity": 255,
+	"uniqueId": "6.5",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 720,
+		"height": 144
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_2_33_15"
+},
+{
+	"type": 0,
+	"id": "8F615364-367C-48BE-A4B4-5834E329A9F4",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "VR / BG Gradient",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "7"
+},
+{
+	"type": 2,
+	"id": "4764F44E-37E1-4BA7-88A0-6DAF168830F4",
+	"parent": "8F615364-367C-48BE-A4B4-5834E329A9F4",
+	"name": "Rectangle 3",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "7.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_1_33_15"
+},
+{
+	"type": 0,
+	"id": "EE9FEFB7-9028-47AB-935B-1D69CC0A1102",
+	"parent": "35510EB8-F018-4EE9-91B2-5498F485AF63",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "8"
+},
+{
+	"type": 2,
+	"id": "0FADB777-C4E8-475F-9A2C-A709B2279806",
+	"parent": "EE9FEFB7-9028-47AB-935B-1D69CC0A1102",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "8.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"src": "_JP010801-Radio-Startref__070101_0_0_33_15"
+}
+
+]}

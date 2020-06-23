@@ -1,0 +1,2365 @@
+{"header": {"version": "1.10","documentName": "213-media (Master @ 92490ae).sketch"},"layers": [
+
+{
+	"type": 0,
+	"id": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"parent": null,
+	"name": "_JP/03.07.03 - USB - Music [ref:_JP/03.09.01]",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"backgroundColor": {
+		"r": 248,
+		"g": 248,
+		"b": 250,
+		"a": 255
+	}
+},
+{
+	"type": 0,
+	"id": "40DFD049-6A6E-4BE3-9BEE-CCC1B09D6D47",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "System/Breadcrumbs/Default",
+	"frame": {
+		"x": 88,
+		"y": 0,
+		"width": 238,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": 0
+},
+{
+	"type": 2,
+	"id": "3A347FD6-DABF-44F3-98B4-D1445EFAF204",
+	"parent": "40DFD049-6A6E-4BE3-9BEE-CCC1B09D6D47",
+	"name": "Icon/System/Apps",
+	"frame": {
+		"x": 32,
+		"y": 21,
+		"width": 32,
+		"height": 32
+	},
+	"opacity": 255,
+	"uniqueId": "0.0",
+	"imageRect": {
+		"x": 38,
+		"y": 23,
+		"width": 19,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_9_44_15"
+},
+{
+	"type": 0,
+	"id": "D02664FD-E77D-4078-9EB1-28CF4C46A448",
+	"parent": "40DFD049-6A6E-4BE3-9BEE-CCC1B09D6D47",
+	"name": "text/24/Left/Semibold/Gray 4",
+	"frame": {
+		"x": 80,
+		"y": 17,
+		"width": 158,
+		"height": 34
+	},
+	"opacity": 255,
+	"uniqueId": "0.1"
+},
+{
+	"type": 3,
+	"id": "F69F2365-F1A8-476A-8931-8C8BBDA265AC",
+	"parent": "D02664FD-E77D-4078-9EB1-28CF4C46A448",
+	"name": "24/Left/Semibold/Gray 4",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 158,
+		"height": 34
+	},
+	"opacity": 255,
+	"uniqueId": "0.1.t0",
+	"imageRect": {
+		"x": 1,
+		"y": 10,
+		"width": 44,
+		"height": 19
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "USB",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 45.588,
+				"height": 34
+			},
+			"range": {
+				"location": 0,
+				"length": 3
+			},
+			"baselineOffset": 6
+		}
+	],
+	"color": {
+		"r": 147,
+		"g": 147,
+		"b": 162,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 28.0081787109375,
+	"descender": -6.216064453125,
+	"capHeight": 17.04,
+	"xHeight": 12.144,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.184,
+	"underlineThickness": 1.872,
+	"fontSize": 24,
+	"characterSpacing": -0.5
+},
+{
+	"type": 0,
+	"id": "BC6DD0DF-F783-4712-99DD-17BE6E592897",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "_JP/Layout/Media/Common/Status_With Progress Bar",
+	"frame": {
+		"x": 454,
+		"y": 74,
+		"width": 506,
+		"height": 362
+	},
+	"opacity": 255,
+	"uniqueId": "1"
+},
+{
+	"type": 0,
+	"id": "970F060F-B8B6-4A5B-980B-611A649F63F5",
+	"parent": "BC6DD0DF-F783-4712-99DD-17BE6E592897",
+	"name": "UI/Button/Round/Medium/Fill",
+	"frame": {
+		"x": 408,
+		"y": 24,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "1.0"
+},
+{
+	"type": 2,
+	"id": "970F060F-B8B6-4A5B-980B-611A649F63F5_img",
+	"parent": "970F060F-B8B6-4A5B-980B-611A649F63F5",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "1.0",
+	"imageRect": {
+		"x": 9,
+		"y": 9,
+		"width": 56,
+		"height": 56
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_2_8_44_15"
+},
+{
+	"type": 0,
+	"id": "25F65A4E-25A6-4ED3-8990-B7883DA2510A",
+	"parent": "BC6DD0DF-F783-4712-99DD-17BE6E592897",
+	"name": "text/20/Center/Regular/Gray 4",
+	"frame": {
+		"x": 213,
+		"y": 283,
+		"width": 80,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.1"
+},
+{
+	"type": 3,
+	"id": "6BC61A0D-19A3-428D-9492-3E39DBD5A84F",
+	"parent": "25F65A4E-25A6-4ED3-8990-B7883DA2510A",
+	"name": "20/Center/Regular/Gray 4",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 80,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.1.0",
+	"imageRect": {
+		"x": 15,
+		"y": 7,
+		"width": 50,
+		"height": 19
+	},
+	"alignment": 1,
+	"verticalAlignment": 0,
+	"text": "{Text}",
+	"fragments": [
+		{
+			"rect": {
+				"x": 14.740000000000002,
+				"y": 0,
+				"width": 50.51999999999999,
+				"height": 28
+			},
+			"range": {
+				"location": 0,
+				"length": 6
+			},
+			"baselineOffset": 5
+		}
+	],
+	"color": {
+		"r": 147,
+		"g": 147,
+		"b": 162,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 23.340047299861908,
+	"descender": -5.180010497570038,
+	"capHeight": 14.200000000000001,
+	"xHeight": 10.08,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -1.82,
+	"underlineThickness": 1.56,
+	"fontSize": 20,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "4CEA6F34-3218-4555-8C19-471781C70002",
+	"parent": "25F65A4E-25A6-4ED3-8990-B7883DA2510A",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 80,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.1.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 80,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_1_8_44_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"parent": "BC6DD0DF-F783-4712-99DD-17BE6E592897",
+	"name": "UI/Media/Playback/With Progress Bar",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 506,
+		"height": 362
+	},
+	"opacity": 255,
+	"uniqueId": "1.2"
+},
+{
+	"type": 0,
+	"id": "C13C631E-872D-4CAA-BA4C-5B290CDE6283",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "UI/Media/Artwork",
+	"frame": {
+		"x": 173,
+		"y": 40,
+		"width": 160,
+		"height": 160
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.0"
+},
+{
+	"type": 2,
+	"id": "C3F741FC-501F-486A-B99D-CA2CF48F8514",
+	"parent": "C13C631E-872D-4CAA-BA4C-5B290CDE6283",
+	"name": "image - circle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.0.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_6_0_8_44_15"
+},
+{
+	"type": 0,
+	"id": "3588ACFB-01C8-40CD-B329-04C50C5039EC",
+	"parent": "C13C631E-872D-4CAA-BA4C-5B290CDE6283",
+	"name": "image - square",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.0.4"
+},
+{
+	"type": 2,
+	"id": "446ADC3E-67E8-4F40-8C3B-6355189388D6",
+	"parent": "3588ACFB-01C8-40CD-B329-04C50C5039EC",
+	"name": "image - square",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.0.5",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_0_6_0_8_44_15"
+},
+{
+	"type": 0,
+	"id": "8EBEE204-5A4E-4459-8F6F-CFA8D1BE1A2A",
+	"parent": "3588ACFB-01C8-40CD-B329-04C50C5039EC",
+	"name": "Elevations/05",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.0.8"
+},
+{
+	"type": 2,
+	"id": "070A747D-C250-4783-A3F7-1D6796EA6968",
+	"parent": "8EBEE204-5A4E-4459-8F6F-CFA8D1BE1A2A",
+	"name": "shape",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 160,
+		"height": 160
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.0.8.0",
+	"imageRect": {
+		"x": -32,
+		"y": -8,
+		"width": 224,
+		"height": 224
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_0_6_0_8_44_15"
+},
+{
+	"type": 0,
+	"id": "718EAD89-9FF6-4301-9239-C96EC19F6362",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "text/20/Right/Regular/Black",
+	"frame": {
+		"x": 398,
+		"y": 314,
+		"width": 52,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.1"
+},
+{
+	"type": 3,
+	"id": "94CBB7F2-7B1E-4BBC-8C6F-E1634BA7E855",
+	"parent": "718EAD89-9FF6-4301-9239-C96EC19F6362",
+	"name": "20/Right/Regular/Black",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 52,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.1.0",
+	"imageRect": {
+		"x": 16,
+		"y": 8,
+		"width": 35,
+		"height": 16
+	},
+	"alignment": 2,
+	"verticalAlignment": 0,
+	"text": "4:15",
+	"fragments": [
+		{
+			"rect": {
+				"x": 15.679999999999993,
+				"y": 0,
+				"width": 36.32000000000001,
+				"height": 28
+			},
+			"range": {
+				"location": 0,
+				"length": 4
+			},
+			"baselineOffset": 5
+		}
+	],
+	"color": {
+		"r": 28,
+		"g": 31,
+		"b": 32,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 23.340047299861908,
+	"descender": -5.180010497570038,
+	"capHeight": 14.200000000000001,
+	"xHeight": 10.08,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -1.82,
+	"underlineThickness": 1.56,
+	"fontSize": 20,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "38807E29-E958-4EE9-9373-A79D99E5C3E9",
+	"parent": "718EAD89-9FF6-4301-9239-C96EC19F6362",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 52,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.1.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 52,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_5_0_8_44_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "4AA10365-9F05-4987-83D4-5203B6E28245",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "text/20/Left/Semibold/Primary 5",
+	"frame": {
+		"x": 56,
+		"y": 314,
+		"width": 52,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.2"
+},
+{
+	"type": 3,
+	"id": "41204500-5604-490C-97C3-FC85C8BDAD6B",
+	"parent": "4AA10365-9F05-4987-83D4-5203B6E28245",
+	"name": "20/Left/Semibold/Primary 5",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 52,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.2.0",
+	"imageRect": {
+		"x": 1,
+		"y": 8,
+		"width": 34,
+		"height": 16
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "2:31",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 36.64,
+				"height": 28
+			},
+			"range": {
+				"location": 0,
+				"length": 4
+			},
+			"baselineOffset": 5
+		}
+	],
+	"color": {
+		"r": 116,
+		"g": 116,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 23.34014892578125,
+	"descender": -5.1800537109375,
+	"capHeight": 14.200000000000001,
+	"xHeight": 10.120000000000001,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -1.82,
+	"underlineThickness": 1.56,
+	"fontSize": 20,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "2EBC3C93-459B-4BB4-A774-BEF2A6247DB7",
+	"parent": "4AA10365-9F05-4987-83D4-5203B6E28245",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 52,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.2.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 52,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_4_0_8_44_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "3CA6C79B-BAA9-4037-92E1-48AE6B281E2D",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "UI/System/Progress Bar",
+	"frame": {
+		"x": 108,
+		"y": 328,
+		"width": 290,
+		"height": 4
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.3"
+},
+{
+	"type": 0,
+	"id": "3014E12A-3C00-4D41-8A74-FF991385619A",
+	"parent": "3CA6C79B-BAA9-4037-92E1-48AE6B281E2D",
+	"name": "Group 4",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 290,
+		"height": 4
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.3.0"
+},
+{
+	"type": 2,
+	"id": "317F8FE9-8497-469B-82A4-F9E21D06279C",
+	"parent": "3014E12A-3C00-4D41-8A74-FF991385619A",
+	"name": "Shapes/Pill/Filled",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 212,
+		"height": 4
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.3.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 212,
+		"height": 4
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_1_3_0_8_44_15"
+},
+{
+	"type": 2,
+	"id": "5382C3A0-7979-4CB6-8636-93AB50E54368",
+	"parent": "3014E12A-3C00-4D41-8A74-FF991385619A",
+	"name": "Shapes/Pill/Filled",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 290,
+		"height": 4
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.3.2",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 290,
+		"height": 4
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_1_3_0_8_44_15"
+},
+{
+	"type": 0,
+	"id": "AE7BC4C7-3C19-4FE1-9C44-38B59FCC7CB3",
+	"parent": "3CA6C79B-BAA9-4037-92E1-48AE6B281E2D",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 290,
+		"height": 4
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.3.3"
+},
+{
+	"type": 2,
+	"id": "8BFAF25F-C840-463F-A8C6-2E020C856789",
+	"parent": "AE7BC4C7-3C19-4FE1-9C44-38B59FCC7CB3",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 290,
+		"height": 4
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.3.3.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 290,
+		"height": 4
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_3_0_8_44_15"
+},
+{
+	"type": 0,
+	"id": "BAAB2351-7755-4A91-AF4B-F9086504AFE0",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "text/20/Center/Regular/Gray 4",
+	"frame": {
+		"x": 40,
+		"y": 255,
+		"width": 426,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.4"
+},
+{
+	"type": 3,
+	"id": "4B0DF6C6-9708-414D-BAFC-863D6485E09A",
+	"parent": "BAAB2351-7755-4A91-AF4B-F9086504AFE0",
+	"name": "20/Center/Regular/Gray 4",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 426,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.4.0",
+	"imageRect": {
+		"x": 188,
+		"y": 7,
+		"width": 50,
+		"height": 19
+	},
+	"alignment": 1,
+	"verticalAlignment": 0,
+	"text": "{Text}",
+	"fragments": [
+		{
+			"rect": {
+				"x": 187.74,
+				"y": 0,
+				"width": 50.51999999999998,
+				"height": 28
+			},
+			"range": {
+				"location": 0,
+				"length": 6
+			},
+			"baselineOffset": 5
+		}
+	],
+	"color": {
+		"r": 147,
+		"g": 147,
+		"b": 162,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 23.340047299861908,
+	"descender": -5.180010497570038,
+	"capHeight": 14.200000000000001,
+	"xHeight": 10.08,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -1.82,
+	"underlineThickness": 1.56,
+	"fontSize": 20,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "C2066BB1-26C3-4538-A0A7-6BB9A75C0119",
+	"parent": "BAAB2351-7755-4A91-AF4B-F9086504AFE0",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 426,
+		"height": 28
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.4.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 426,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_2_0_8_44_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "4D0B2A5F-E01C-4BF2-A4E7-908E7D0ECE3C",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "text/32/Center/Semibold/Black",
+	"frame": {
+		"x": 32,
+		"y": 208,
+		"width": 442,
+		"height": 45
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.5"
+},
+{
+	"type": 3,
+	"id": "293B144C-01E9-4690-A5A7-228F64863961",
+	"parent": "4D0B2A5F-E01C-4BF2-A4E7-908E7D0ECE3C",
+	"name": "32/Center/Semibold/Black",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 442,
+		"height": 45
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.5.0",
+	"imageRect": {
+		"x": 123,
+		"y": 12,
+		"width": 196,
+		"height": 33
+	},
+	"alignment": 1,
+	"verticalAlignment": 0,
+	"text": "{Song Name}",
+	"fragments": [
+		{
+			"rect": {
+				"x": 122.726,
+				"y": 0,
+				"width": 196.548,
+				"height": 45
+			},
+			"range": {
+				"location": 0,
+				"length": 11
+			},
+			"baselineOffset": 8
+		}
+	],
+	"color": {
+		"r": 28,
+		"g": 31,
+		"b": 32,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 37.34423828125,
+	"descender": -8.2880859375,
+	"capHeight": 22.72,
+	"xHeight": 16.192,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.912,
+	"underlineThickness": 2.496,
+	"fontSize": 32,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "F1766E42-ABC1-491A-8B36-29AEF01B78ED",
+	"parent": "4D0B2A5F-E01C-4BF2-A4E7-908E7D0ECE3C",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 442,
+		"height": 45
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.5.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 442,
+		"height": 45
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_1_0_8_44_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "A7C90A18-3035-4202-8338-5919EEF949BD",
+	"parent": "8B4B3088-B662-4C24-A59E-CAD3477A13B9",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 506,
+		"height": 362
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.6"
+},
+{
+	"type": 2,
+	"id": "6C366ECE-2C43-484D-972A-2ABAE89AE4D2",
+	"parent": "A7C90A18-3035-4202-8338-5919EEF949BD",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 505.99999999999994,
+		"height": 362
+	},
+	"opacity": 255,
+	"uniqueId": "1.2.6.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 506,
+		"height": 362
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_0_8_44_15"
+},
+{
+	"type": 0,
+	"id": "682D8CBF-3BE1-4F4D-8673-3139D63386DE",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "UI/Media/Playback Controls",
+	"frame": {
+		"x": 495,
+		"y": 450,
+		"width": 424,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2"
+},
+{
+	"type": 0,
+	"id": "D8A05CF4-55D0-4335-96A1-6ED644F0B6DF",
+	"parent": "682D8CBF-3BE1-4F4D-8673-3139D63386DE",
+	"name": "UI/Button/Round/Large/Outline",
+	"frame": {
+		"x": 175,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.0"
+},
+{
+	"type": 2,
+	"id": "D8A05CF4-55D0-4335-96A1-6ED644F0B6DF_img",
+	"parent": "D8A05CF4-55D0-4335-96A1-6ED644F0B6DF",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.0",
+	"imageRect": {
+		"x": 1,
+		"y": 1,
+		"width": 72,
+		"height": 72
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_4_7_44_15"
+},
+{
+	"type": 0,
+	"id": "628BBAE9-C4E0-49C2-89E2-AAEC78383BEF",
+	"parent": "682D8CBF-3BE1-4F4D-8673-3139D63386DE",
+	"name": "UI/Button/Round/Medium/Outline",
+	"frame": {
+		"x": 350,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.1"
+},
+{
+	"type": 2,
+	"id": "628BBAE9-C4E0-49C2-89E2-AAEC78383BEF_img",
+	"parent": "628BBAE9-C4E0-49C2-89E2-AAEC78383BEF",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.1",
+	"imageRect": {
+		"x": 9,
+		"y": 9,
+		"width": 56,
+		"height": 56
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_3_7_44_15"
+},
+{
+	"type": 0,
+	"id": "AE27BF19-D0A1-4535-8405-903FB6A11C3E",
+	"parent": "682D8CBF-3BE1-4F4D-8673-3139D63386DE",
+	"name": "UI/Button/Round/Medium/Outline",
+	"frame": {
+		"x": 266,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.2"
+},
+{
+	"type": 2,
+	"id": "AE27BF19-D0A1-4535-8405-903FB6A11C3E_img",
+	"parent": "AE27BF19-D0A1-4535-8405-903FB6A11C3E",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.2",
+	"imageRect": {
+		"x": 9,
+		"y": 9,
+		"width": 56,
+		"height": 56
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_2_7_44_15"
+},
+{
+	"type": 0,
+	"id": "C9851708-770F-4BF2-B70A-B1E6C0679766",
+	"parent": "682D8CBF-3BE1-4F4D-8673-3139D63386DE",
+	"name": "UI/Button/Round/Medium/Outline",
+	"frame": {
+		"x": 84,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.3"
+},
+{
+	"type": 2,
+	"id": "C9851708-770F-4BF2-B70A-B1E6C0679766_img",
+	"parent": "C9851708-770F-4BF2-B70A-B1E6C0679766",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.3",
+	"imageRect": {
+		"x": 9,
+		"y": 9,
+		"width": 56,
+		"height": 56
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_7_44_15"
+},
+{
+	"type": 0,
+	"id": "EFB4DDC1-EC59-445F-8535-9709FABB3D22",
+	"parent": "682D8CBF-3BE1-4F4D-8673-3139D63386DE",
+	"name": "UI/Button/Round/Medium/Outline",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.4"
+},
+{
+	"type": 2,
+	"id": "EFB4DDC1-EC59-445F-8535-9709FABB3D22_img",
+	"parent": "EFB4DDC1-EC59-445F-8535-9709FABB3D22",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "2.4",
+	"imageRect": {
+		"x": 9,
+		"y": 9,
+		"width": 56,
+		"height": 56
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_7_44_15"
+},
+{
+	"type": 0,
+	"id": "2D6B4156-B36A-4C68-8160-07C54C7274B7",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "UI/Button/Round/Large/Fill",
+	"frame": {
+		"x": 112,
+		"y": 442,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "3"
+},
+{
+	"type": 2,
+	"id": "2D6B4156-B36A-4C68-8160-07C54C7274B7_img",
+	"parent": "2D6B4156-B36A-4C68-8160-07C54C7274B7",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 74,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "3",
+	"imageRect": {
+		"x": -31,
+		"y": -7,
+		"width": 136,
+		"height": 105
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_6_44_15"
+},
+{
+	"type": 0,
+	"id": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "UI/System/Global Menu/5 items/default",
+	"frame": {
+		"x": -6,
+		"y": 0,
+		"width": 94,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "4"
+},
+{
+	"type": 0,
+	"id": "4AF21B98-6B16-401B-9773-6DBB0CB2398E",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "UI/System/Global Menu/5 items/Navi/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.0"
+},
+{
+	"type": 2,
+	"id": "9D8B9DFD-D4B1-4E02-9EF5-5F6276838F17",
+	"parent": "4AF21B98-6B16-401B-9773-6DBB0CB2398E",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.0.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_7_5_44_15"
+},
+{
+	"type": 2,
+	"id": "01DF90C3-8F8B-4EC6-9FF6-112C48214E7C",
+	"parent": "4AF21B98-6B16-401B-9773-6DBB0CB2398E",
+	"name": "Icon/Navigation/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "4.0.1",
+	"imageRect": {
+		"x": 34,
+		"y": 42,
+		"width": 18,
+		"height": 24
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_7_5_44_15"
+},
+{
+	"type": 0,
+	"id": "969162D9-C9EE-451D-BA30-67DB2F8A7251",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "UI/System/Global Menu/5 items/Media/Inactive",
+	"frame": {
+		"x": 0,
+		"y": 108,
+		"width": 94,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.1"
+},
+{
+	"type": 2,
+	"id": "845B6CE1-1190-41F6-B9F0-23A10216C440",
+	"parent": "969162D9-C9EE-451D-BA30-67DB2F8A7251",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.0",
+	"imageRect": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_2_6_5_44_15"
+},
+{
+	"type": 0,
+	"id": "D0DA228D-5347-4A04-BB76-74746F7EA19A",
+	"parent": "969162D9-C9EE-451D-BA30-67DB2F8A7251",
+	"name": "UI/System/Global Menu/5 items/_Active-State",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 94,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.1"
+},
+{
+	"type": 2,
+	"id": "4F425FDA-AB56-449D-8513-49A876E792AE",
+	"parent": "D0DA228D-5347-4A04-BB76-74746F7EA19A",
+	"name": "Shapes/Pill/Filled",
+	"frame": {
+		"x": 0,
+		"y": 48,
+		"width": 12,
+		"height": 12
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.1.0",
+	"imageRect": {
+		"x": 6,
+		"y": 48,
+		"width": 6,
+		"height": 12
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_1_6_5_44_15"
+},
+{
+	"type": 2,
+	"id": "0FC406DE-D660-4B1B-A223-88EFBA68B77C",
+	"parent": "D0DA228D-5347-4A04-BB76-74746F7EA19A",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.1.1",
+	"imageRect": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_1_6_5_44_15"
+},
+{
+	"type": 0,
+	"id": "EC80AB52-DCC0-4178-B57E-C486FC2A6005",
+	"parent": "969162D9-C9EE-451D-BA30-67DB2F8A7251",
+	"name": "UI/System/Global Menu/5 items/Media/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.2"
+},
+{
+	"type": 2,
+	"id": "68679DAB-C928-48C0-B1B9-FF3DDFA7FDBE",
+	"parent": "EC80AB52-DCC0-4178-B57E-C486FC2A6005",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.2.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_0_6_5_44_15"
+},
+{
+	"type": 2,
+	"id": "743A6306-B19F-4E61-BB68-3C7C9CFFA735",
+	"parent": "EC80AB52-DCC0-4178-B57E-C486FC2A6005",
+	"name": "Icon/Audio/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "4.1.2.1",
+	"imageRect": {
+		"x": 30,
+		"y": 39,
+		"width": 26,
+		"height": 29
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_6_5_44_15"
+},
+{
+	"type": 0,
+	"id": "33369EB5-4B98-4EEB-A07D-4B482A4D6F40",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "UI/System/Global Menu/5 items/Phone/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 216,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.2"
+},
+{
+	"type": 2,
+	"id": "287CCC3F-5E92-4715-9C4C-C5523CE734ED",
+	"parent": "33369EB5-4B98-4EEB-A07D-4B482A4D6F40",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.2.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_5_5_44_15"
+},
+{
+	"type": 2,
+	"id": "95320202-9C42-4E11-891D-628F0F7A1ECC",
+	"parent": "33369EB5-4B98-4EEB-A07D-4B482A4D6F40",
+	"name": "Icon/Phone/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "4.2.1",
+	"imageRect": {
+		"x": 32,
+		"y": 42,
+		"width": 26,
+		"height": 26
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_5_5_44_15"
+},
+{
+	"type": 0,
+	"id": "6DA2B09E-E9BE-4D21-932D-A4DA746A1BC3",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "UI/System/Global Menu/5 items/Vehicle/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 324,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.3"
+},
+{
+	"type": 2,
+	"id": "19114216-EF1A-484E-ACC5-2304EFCD4335",
+	"parent": "6DA2B09E-E9BE-4D21-932D-A4DA746A1BC3",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.3.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_4_5_44_15"
+},
+{
+	"type": 2,
+	"id": "5008C449-96D4-4C29-9FB8-D144754B8F28",
+	"parent": "6DA2B09E-E9BE-4D21-932D-A4DA746A1BC3",
+	"name": "Icon/Car/Default",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "4.3.1",
+	"imageRect": {
+		"x": 29,
+		"y": 40,
+		"width": 30,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_4_5_44_15"
+},
+{
+	"type": 0,
+	"id": "7CB5E98B-EE14-45B2-AE63-8E713FCC7F39",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "UI/System/Global Menu/5 items/Settings/Inactive",
+	"frame": {
+		"x": 6,
+		"y": 432,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.4"
+},
+{
+	"type": 2,
+	"id": "A6A124E2-48A9-4F3A-9B0B-EBD325107846",
+	"parent": "7CB5E98B-EE14-45B2-AE63-8E713FCC7F39",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"opacity": 255,
+	"uniqueId": "4.4.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 108
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_3_5_44_15"
+},
+{
+	"type": 2,
+	"id": "192FEDE5-0CA8-4DFB-9F24-AB51AD754CA0",
+	"parent": "7CB5E98B-EE14-45B2-AE63-8E713FCC7F39",
+	"name": "Icon/System/Settings",
+	"frame": {
+		"x": 24,
+		"y": 34,
+		"width": 40,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "4.4.1",
+	"imageRect": {
+		"x": 30,
+		"y": 40,
+		"width": 28,
+		"height": 28
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_3_5_44_15"
+},
+{
+	"type": 0,
+	"id": "80DBC1FD-338E-4C29-A270-93B9AA34285E",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "🎨/Fill/Gray 6",
+	"frame": {
+		"x": 93,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"opacity": 153,
+	"uniqueId": "4.5"
+},
+{
+	"type": 2,
+	"id": "155E2A5E-149E-4BAD-BD77-881038289E70",
+	"parent": "80DBC1FD-338E-4C29-A270-93B9AA34285E",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "4.5.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_2_5_44_15"
+},
+{
+	"type": 0,
+	"id": "A502372D-7774-43CA-B1B0-CD06197BBA56",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "Elevations/05/Right",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "4.6"
+},
+{
+	"type": 2,
+	"id": "E124482E-9FF3-4FC0-9DB4-EBC8937D28DB",
+	"parent": "A502372D-7774-43CA-B1B0-CD06197BBA56",
+	"name": "shape",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "4.6.t0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 136,
+		"height": 540
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_1_5_44_15"
+},
+{
+	"type": 0,
+	"id": "2E6BD235-B098-4525-825A-8CE4596903CA",
+	"parent": "DFCFFC88-5C93-4F7A-8041-E3018F9FDED5",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 6,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "4.7"
+},
+{
+	"type": 2,
+	"id": "17FEFD2F-4362-4A3B-8AA7-501A4CAFC9F3",
+	"parent": "2E6BD235-B098-4525-825A-8CE4596903CA",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "4.7.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 88,
+		"height": 540
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_5_44_15"
+},
+{
+	"type": 0,
+	"id": "6D1A9464-CD42-4AB5-B2FF-F068C16696F6",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "UI/System/Status Bar",
+	"frame": {
+		"x": 725,
+		"y": 0,
+		"width": 235,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "5"
+},
+{
+	"type": 2,
+	"id": "F073C10C-4D17-4AF8-8459-2D4479A240EA",
+	"parent": "6D1A9464-CD42-4AB5-B2FF-F068C16696F6",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 56,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "5.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 56,
+		"height": 74
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_4_4_44_15"
+},
+{
+	"type": 2,
+	"id": "0C7E70F8-EC46-443D-A5F8-4DE14771F07C",
+	"parent": "6D1A9464-CD42-4AB5-B2FF-F068C16696F6",
+	"name": "Icon/Bluetooth/Default",
+	"frame": {
+		"x": 24,
+		"y": 26,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "5.1",
+	"imageRect": {
+		"x": 30,
+		"y": 28,
+		"width": 13,
+		"height": 20
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_3_4_44_15"
+},
+{
+	"type": 2,
+	"id": "7530E236-8B13-4AFF-8BC4-0238832792D7",
+	"parent": "6D1A9464-CD42-4AB5-B2FF-F068C16696F6",
+	"name": "Icon/Phone/Battery",
+	"frame": {
+		"x": 64,
+		"y": 26,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "5.2",
+	"imageRect": {
+		"x": 71,
+		"y": 29,
+		"width": 10,
+		"height": 18
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_2_4_44_15"
+},
+{
+	"type": 2,
+	"id": "AE2D0FD3-4070-412E-99C6-9152B4BE29CB",
+	"parent": "6D1A9464-CD42-4AB5-B2FF-F068C16696F6",
+	"name": "Icon/Phone/LTE",
+	"frame": {
+		"x": 104,
+		"y": 26,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "5.3",
+	"imageRect": {
+		"x": 108,
+		"y": 30,
+		"width": 16,
+		"height": 17
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_4_44_15"
+},
+{
+	"type": 0,
+	"id": "D68E1459-597E-46D8-B438-68994CED40DD",
+	"parent": "6D1A9464-CD42-4AB5-B2FF-F068C16696F6",
+	"name": "text/32/Right/Regular/Gray 4",
+	"frame": {
+		"x": 149,
+		"y": 12,
+		"width": 62,
+		"height": 50
+	},
+	"opacity": 255,
+	"uniqueId": "5.4"
+},
+{
+	"type": 3,
+	"id": "93A3C525-CB55-449A-9465-170F8FF65CD0",
+	"parent": "D68E1459-597E-46D8-B438-68994CED40DD",
+	"name": "32/Right/Regular/Gray 4",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 62,
+		"height": 45
+	},
+	"opacity": 255,
+	"uniqueId": "5.4.0",
+	"imageRect": {
+		"x": 3,
+		"y": 13,
+		"width": 58,
+		"height": 25
+	},
+	"alignment": 2,
+	"verticalAlignment": 0,
+	"text": "4:12",
+	"fragments": [
+		{
+			"rect": {
+				"x": 2.6880000000000024,
+				"y": 0,
+				"width": 59.312,
+				"height": 45
+			},
+			"range": {
+				"location": 0,
+				"length": 4
+			},
+			"baselineOffset": 8
+		}
+	],
+	"color": {
+		"r": 147,
+		"g": 147,
+		"b": 162,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 37.34407567977905,
+	"descender": -8.28801679611206,
+	"capHeight": 22.72,
+	"xHeight": 16.128,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.912,
+	"underlineThickness": 2.496,
+	"fontSize": 32,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "9584119F-7318-4ED2-BBF1-E0DCAFAF8BB7",
+	"parent": "D68E1459-597E-46D8-B438-68994CED40DD",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 62,
+		"height": 50
+	},
+	"opacity": 255,
+	"uniqueId": "5.4.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 62,
+		"height": 50
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_4_44_15",
+	"isMask": true
+},
+{
+	"type": 0,
+	"id": "D1765799-51A8-4D84-A367-05CD6B29BD54",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "UI/Button/Selector",
+	"frame": {
+		"x": 210,
+		"y": 442,
+		"width": 220,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "6"
+},
+{
+	"type": 3,
+	"id": "D1765799-51A8-4D84-A367-05CD6B29BD54_txt0",
+	"parent": "D1765799-51A8-4D84-A367-05CD6B29BD54",
+	"name": "24/Left/Semibold/White",
+	"frame": {
+		"x": 32,
+		"y": 18,
+		"width": 140,
+		"height": 34
+	},
+	"opacity": 255,
+	"uniqueId": "6_txt0",
+	"imageRect": {
+		"x": 1,
+		"y": 10,
+		"width": 86,
+		"height": 19
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "Sources",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 86.764,
+				"height": 34
+			},
+			"range": {
+				"location": 0,
+				"length": 7
+			},
+			"baselineOffset": 6
+		}
+	],
+	"color": {
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type Semibold",
+	"ascender": 28.0081787109375,
+	"descender": -6.216064453125,
+	"capHeight": 17.04,
+	"xHeight": 12.144,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.184,
+	"underlineThickness": 1.872,
+	"fontSize": 24,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "D1765799-51A8-4D84-A367-05CD6B29BD54_img",
+	"parent": "D1765799-51A8-4D84-A367-05CD6B29BD54",
+	"name": "btnimg",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 220,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "6",
+	"imageRect": {
+		"x": -23,
+		"y": -8,
+		"width": 266,
+		"height": 106
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_3_44_15"
+},
+{
+	"type": 0,
+	"id": "103EA34D-AF31-4CA4-9455-400DBC37CCFD",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "List/Single/Default/Large",
+	"frame": {
+		"x": 88,
+		"y": 156,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "7"
+},
+{
+	"type": 0,
+	"id": "A71805B8-95CA-4653-B77C-87D952189EAB",
+	"parent": "103EA34D-AF31-4CA4-9455-400DBC37CCFD",
+	"name": "text/28/Left/Regular/Black",
+	"frame": {
+		"x": 32,
+		"y": 13,
+		"width": 278,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "7.0"
+},
+{
+	"type": 3,
+	"id": "121AC107-6B27-4175-9E2B-3A5C86E4C92C",
+	"parent": "A71805B8-95CA-4653-B77C-87D952189EAB",
+	"name": "28/Left/Regular/Black",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 278,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "7.0.0",
+	"imageRect": {
+		"x": 0,
+		"y": 11,
+		"width": 74,
+		"height": 23
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "Video",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 74.388,
+				"height": 40
+			},
+			"range": {
+				"location": 0,
+				"length": 5
+			},
+			"baselineOffset": 7
+		}
+	],
+	"color": {
+		"r": 28,
+		"g": 31,
+		"b": 32,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 32.67606621980667,
+	"descender": -7.252014696598053,
+	"capHeight": 19.88,
+	"xHeight": 14.112,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.548,
+	"underlineThickness": 2.184,
+	"fontSize": 28,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "DF34BB54-8ADB-43AC-88FA-4E89F3364AF9",
+	"parent": "A71805B8-95CA-4653-B77C-87D952189EAB",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 278,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "7.0.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 278,
+		"height": 40
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_4_2_44_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "A4C2407A-E968-460B-9D97-B8833F7DD683",
+	"parent": "103EA34D-AF31-4CA4-9455-400DBC37CCFD",
+	"name": "Icon/System/Arrow Right",
+	"frame": {
+		"x": 326,
+		"y": 25,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "7.1",
+	"imageRect": {
+		"x": 335,
+		"y": 31,
+		"width": 8,
+		"height": 12
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_3_2_44_15"
+},
+{
+	"type": 0,
+	"id": "AA6C5DAB-20A5-4D99-8374-A2BFFFBC8F66",
+	"parent": "103EA34D-AF31-4CA4-9455-400DBC37CCFD",
+	"name": "UI/System/Notification Indicator/Blank",
+	"frame": {
+		"x": 310,
+		"y": 21,
+		"width": 32,
+		"height": 32
+	},
+	"opacity": 255,
+	"uniqueId": "7.2"
+},
+{
+	"type": 2,
+	"id": "61BDDA68-0D7C-43CA-BC25-D757B7FA5F80",
+	"parent": "103EA34D-AF31-4CA4-9455-400DBC37CCFD",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "7.4",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_2_44_15"
+},
+{
+	"type": 0,
+	"id": "2A7E0245-87ED-4AC4-9035-68D76ADAC122",
+	"parent": "103EA34D-AF31-4CA4-9455-400DBC37CCFD",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "7.5"
+},
+{
+	"type": 2,
+	"id": "578287BF-D7F3-4D6B-B918-FEA615F3B4F7",
+	"parent": "2A7E0245-87ED-4AC4-9035-68D76ADAC122",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "7.5.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_2_44_15"
+},
+{
+	"type": 0,
+	"id": "B723C857-6E8A-44EE-B249-5CA12AEE9EBF",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "List/Single/Default/Large",
+	"frame": {
+		"x": 88,
+		"y": 82,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "8"
+},
+{
+	"type": 0,
+	"id": "0398063C-73B2-4209-A8DE-65860E8D03DC",
+	"parent": "B723C857-6E8A-44EE-B249-5CA12AEE9EBF",
+	"name": "text/28/Left/Regular/Black",
+	"frame": {
+		"x": 32,
+		"y": 13,
+		"width": 278,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "8.0"
+},
+{
+	"type": 3,
+	"id": "719BA96C-F7EF-4243-A819-E5EF2E8AAC5C",
+	"parent": "0398063C-73B2-4209-A8DE-65860E8D03DC",
+	"name": "28/Left/Regular/Black",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 278,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "8.0.0",
+	"imageRect": {
+		"x": 2,
+		"y": 12,
+		"width": 72,
+		"height": 22
+	},
+	"alignment": 0,
+	"verticalAlignment": 0,
+	"text": "Music",
+	"fragments": [
+		{
+			"rect": {
+				"x": 0,
+				"y": 0,
+				"width": 74.696,
+				"height": 40
+			},
+			"range": {
+				"location": 0,
+				"length": 5
+			},
+			"baselineOffset": 7
+		}
+	],
+	"color": {
+		"r": 28,
+		"g": 31,
+		"b": 32,
+		"a": 255
+	},
+	"lineSpacing": "constantBaseline",
+	"fontName": "Toyota Type",
+	"ascender": 32.67606621980667,
+	"descender": -7.252014696598053,
+	"capHeight": 19.88,
+	"xHeight": 14.112,
+	"italicAngle": 0,
+	"leading": 0,
+	"underlinePosition": -2.548,
+	"underlineThickness": 2.184,
+	"fontSize": 28,
+	"characterSpacing": -0.5
+},
+{
+	"type": 2,
+	"id": "9B771083-6030-4FB3-8FE5-27610ADBA5A6",
+	"parent": "0398063C-73B2-4209-A8DE-65860E8D03DC",
+	"name": "Mask",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 278,
+		"height": 40
+	},
+	"opacity": 255,
+	"uniqueId": "8.0.1",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 278,
+		"height": 40
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_4_1_44_15",
+	"isMask": true
+},
+{
+	"type": 2,
+	"id": "913868F9-8D5C-416F-86EC-B72E3EB605A9",
+	"parent": "B723C857-6E8A-44EE-B249-5CA12AEE9EBF",
+	"name": "Icon/System/Arrow Right",
+	"frame": {
+		"x": 326,
+		"y": 25,
+		"width": 24,
+		"height": 24
+	},
+	"opacity": 255,
+	"uniqueId": "8.1",
+	"imageRect": {
+		"x": 335,
+		"y": 31,
+		"width": 8,
+		"height": 12
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_3_1_44_15"
+},
+{
+	"type": 0,
+	"id": "2F34C364-427A-4A29-A002-576C1C940324",
+	"parent": "B723C857-6E8A-44EE-B249-5CA12AEE9EBF",
+	"name": "UI/System/Notification Indicator/Blank",
+	"frame": {
+		"x": 310,
+		"y": 21,
+		"width": 32,
+		"height": 32
+	},
+	"opacity": 255,
+	"uniqueId": "8.2"
+},
+{
+	"type": 2,
+	"id": "516F3D5C-B9D9-4D37-9C51-8A6F7D0E297E",
+	"parent": "B723C857-6E8A-44EE-B249-5CA12AEE9EBF",
+	"name": "Spec/Tap Area",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "8.4",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_1_1_44_15"
+},
+{
+	"type": 0,
+	"id": "58C01557-DA0C-4368-940B-10E6F0CD2A09",
+	"parent": "B723C857-6E8A-44EE-B249-5CA12AEE9EBF",
+	"name": "~Shapes/Spec Use BG~",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "8.5"
+},
+{
+	"type": 2,
+	"id": "CE9C1D36-5B46-41ED-950B-D696CE7E7740",
+	"parent": "58C01557-DA0C-4368-940B-10E6F0CD2A09",
+	"name": "Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"opacity": 255,
+	"uniqueId": "8.5.0",
+	"imageRect": {
+		"x": 0,
+		"y": 0,
+		"width": 366,
+		"height": 74
+	},
+	"src": "_JP030703-USB-Musicref_JP030901_0_0_1_44_15"
+},
+{
+	"type": 0,
+	"id": "F0E77DA0-75D5-4643-B5DC-0CDBCDE1FEEF",
+	"parent": "3F197F4E-7C30-4FD7-B06D-AAB183D00316",
+	"name": "~Shapes/BG~",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 960,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "9"
+},
+{
+	"type": 15,
+	"id": "B7E9B0E8-319A-4613-9BA7-525F2BD1D1F4",
+	"parent": "F0E77DA0-75D5-4643-B5DC-0CDBCDE1FEEF",
+	"name": "Shapes/Rectangle",
+	"frame": {
+		"x": 453,
+		"y": 0,
+		"width": 1,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "9.0",
+	"fills": [
+		{
+			"r": 225,
+			"g": 225,
+			"b": 232,
+			"a": 255
+		}
+	]
+},
+{
+	"type": 15,
+	"id": "9CA5D9B9-A7EE-41CE-BBDF-CB41365FEC7C",
+	"parent": "F0E77DA0-75D5-4643-B5DC-0CDBCDE1FEEF",
+	"name": "Shapes/Rectangle",
+	"frame": {
+		"x": 0,
+		"y": 0,
+		"width": 454,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "9.1",
+	"fills": [
+		{
+			"r": 240,
+			"g": 240,
+			"b": 244,
+			"a": 255
+		}
+	]
+},
+{
+	"type": 15,
+	"id": "D3FFAA15-3B2B-42F2-A48C-8127AF62FCE3",
+	"parent": "F0E77DA0-75D5-4643-B5DC-0CDBCDE1FEEF",
+	"name": "Shapes/Rectangle",
+	"frame": {
+		"x": 454,
+		"y": 0,
+		"width": 506,
+		"height": 540
+	},
+	"opacity": 255,
+	"uniqueId": "9.2",
+	"fills": [
+		{
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		}
+	]
+}
+
+]}
